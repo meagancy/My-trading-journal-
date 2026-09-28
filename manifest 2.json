@@ -1,0 +1,15 @@
+{
+  "name": "MAEGANCYY Trading Journal",
+  "short_name": "MAEGANCYY",
+  "description": "SMC trade journal, risk calculator and pips calculator.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfaf8",
+  "theme_color": "#c98a3e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
